@@ -5,7 +5,7 @@ Welcome to the **PawHealth Clinic** website project. This is a simple, responsiv
 
 ## 🌐 Live Demo
 
-Check out the live demo here: [PawHealth Clinic](https://dawoodshahzad61004.github.io/project2/)
+Check out the live demo here: [PawHealth Clinic](https://dawoodshahzad61004.github.io/PawHealth-Clinic/)
 
 ---
 
